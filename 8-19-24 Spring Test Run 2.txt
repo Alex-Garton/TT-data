@@ -1,0 +1,94 @@
+1123.0000
+Enter sample number: 0
+Enter num_steps: 40
+Enter step_size: 10
+Enter step_delay: 6000
+Press button to tare force sensor...
+Force Sensor Tared...
+Tare reading...:  -0.0004
+Flip switch to begin program... 
+
+	| step size: 	10	| step direction: 	down
+	| one reading: 	13.06
+	| one reading: 	13.07
+	| one reading: 	13.03
+	| one reading: 	13.08
+	| one reading: 	13.03
+	| one reading: 	13.00
+	| one reading: 	13.10
+	| one reading: 	13.12
+	| one reading: 	13.14
+	| one reading: 	13.33
+	| one reading: 	13.26
+	| one reading: 	13.21
+	| one reading: 	13.30
+	| one reading: 	13.32
+	| one reading: 	13.41
+	| one reading: 	13.44
+	| one reading: 	13.57
+	| one reading: 	13.73
+	| one reading: 	14.03
+	| one reading: 	14.57
+	| one reading: 	15.19
+	| one reading: 	16.05
+	| one reading: 	16.50
+	| one reading: 	17.57
+	| one reading: 	18.36
+	| one reading: 	19.40
+	| one reading: 	20.53
+	| one reading: 	21.77
+	| one reading: 	23.00
+	| one reading: 	24.33
+	| one reading: 	25.89
+	| one reading: 	27.21
+	| one reading: 	28.59
+	| one reading: 	30.09
+	| one reading: 	31.54
+	| one reading: 	32.92
+	| one reading: 	34.25
+	| one reading: 	35.84
+	| one reading: 	37.24
+	| one reading: 	38.88
+
+	| step size: 	10	| step direction: 	up
+	| one reading:	37.09
+	| one reading:	35.58
+	| one reading:	33.93
+	| one reading:	32.26
+	| one reading:	30.63
+	| one reading:	28.91
+	| one reading:	27.15
+	| one reading:	25.58
+	| one reading:	23.92
+	| one reading:	22.16
+	| one reading:	20.72
+	| one reading:	19.01
+	| one reading:	17.38
+	| one reading:	15.80
+	| one reading:	14.27
+	| one reading:	12.87
+	| one reading:	14.71
+	| one reading:	14.30
+	| one reading:	13.97
+	| one reading:	13.83
+	| one reading:	13.87
+	| one reading:	13.75
+	| one reading:	13.54
+	| one reading:	13.43
+	| one reading:	13.28
+	| one reading:	13.28
+	| one reading:	13.08
+	| one reading:	13.14
+	| one reading:	12.99
+	| one reading:	13.00
+	| one reading:	12.99
+	| one reading:	12.95
+	| one reading:	13.02
+	| one reading:	13.03
+	| one reading:	12.96
+	| one reading:	12.95
+	| one reading:	12.94
+	| one reading:	12.92
+	| one reading:	12.93
+	| one reading:	12.57
+

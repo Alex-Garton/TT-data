@@ -1,0 +1,93 @@
+1123.0000
+Enter sample number: 0
+Enter num_steps: 40
+Enter step_size: 10
+Enter step_delay: 6000
+Press button to tare force sensor...
+Force Sensor Tared...
+Tare reading...:  0.0112
+Flip switch to begin program... 
+
+	| step size: 	10	| step direction: 	down
+	| one reading: 	0.21
+	| one reading: 	0.64
+	| one reading: 	0.96
+	| one reading: 	1.37
+	| one reading: 	2.17
+	| one reading: 	2.97
+	| one reading: 	3.55
+	| one reading: 	4.73
+	| one reading: 	5.94
+	| one reading: 	7.32
+	| one reading: 	8.57
+	| one reading: 	9.67
+	| one reading: 	11.06
+	| one reading: 	12.28
+	| one reading: 	13.65
+	| one reading: 	15.21
+	| one reading: 	16.93
+	| one reading: 	18.30
+	| one reading: 	19.83
+	| one reading: 	21.43
+	| one reading: 	22.99
+	| one reading: 	24.55
+	| one reading: 	26.02
+	| one reading: 	27.42
+	| one reading: 	28.96
+	| one reading: 	30.35
+	| one reading: 	31.84
+	| one reading: 	33.31
+	| one reading: 	34.77
+	| one reading: 	36.13
+	| one reading: 	37.55
+	| one reading: 	39.02
+	| one reading: 	40.24
+	| one reading: 	41.49
+	| one reading: 	42.85
+	| one reading: 	44.13
+	| one reading: 	45.55
+	| one reading: 	46.84
+	| one reading: 	48.30
+	| one reading: 	49.65
+
+	| step size: 	10	| step direction: 	up
+	| one reading:	48.28
+	| one reading:	46.69
+	| one reading:	45.32
+	| one reading:	43.89
+	| one reading:	42.46
+	| one reading:	40.92
+	| one reading:	39.63
+	| one reading:	38.25
+	| one reading:	36.77
+	| one reading:	35.36
+	| one reading:	33.92
+	| one reading:	32.45
+	| one reading:	30.88
+	| one reading:	29.40
+	| one reading:	28.01
+	| one reading:	26.33
+	| one reading:	24.67
+	| one reading:	22.91
+	| one reading:	21.41
+	| one reading:	19.72
+	| one reading:	17.92
+	| one reading:	16.21
+	| one reading:	14.53
+	| one reading:	12.82
+	| one reading:	11.15
+	| one reading:	9.28
+	| one reading:	7.63
+	| one reading:	6.09
+	| one reading:	4.50
+	| one reading:	2.78
+	| one reading:	1.21
+	| one reading:	-0.36
+	| one reading:	-1.96
+	| one reading:	-3.33
+	| one reading:	0.68
+	| one reading:	0.46
+	| one reading:	0.13
+	| one reading:	-0.11
+	| one reading:	-0.10
+	| one reading:	-0.34
